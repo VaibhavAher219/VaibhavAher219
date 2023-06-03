@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Solidity,React
 - 💬 I love travelling,photography and programming
 - 📫 How to find me:
--     [Twitter]  (https://twitter.com/vaibhavva219)
--     [Linkedin] (https://www.linkedin.com/in/vaibhav-aher-29640814b)
+-     💡:[Twitter]  
+-       (https://twitter.com/vaibhavva219)
+-     📝:[Linkedin] (https://www.linkedin.com/in/vaibhav-aher-29640814b)
 
 [![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavAher219&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/VaibhavAher219/github-readme-stats)
 
