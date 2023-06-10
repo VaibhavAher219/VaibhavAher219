@@ -14,6 +14,6 @@ Here are some ideas to get you started:
      - 💡[Twitter](https://twitter.com/vaibhavva219)
      - 📝[Linkedin](https://www.linkedin.com/in/vaibhav-aher-29640814b)
 
-[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavAher219&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/VaibhavAher219/github-readme-stats)
+<!-- [![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavAher219&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/VaibhavAher219/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavAher219)](https://github.com/VaibhavAher219/github-readme-stats)
