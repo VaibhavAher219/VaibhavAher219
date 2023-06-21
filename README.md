@@ -3,7 +3,7 @@
 
 <!--**VaibhavAher219/VaibhavAher219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+My name is Vaibhav and I:
 
 - 💼 I specialize in writing smart contracts and implementing decentralized applications on the Ethereum Blockchain
 - 🌱 I am commited to developing high-quality,secure,and efficient blockchain solutions that solve real-world problems
