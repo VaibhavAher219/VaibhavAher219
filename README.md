@@ -1,18 +1,13 @@
 ### Hi there 👋
 
-
-<!--**VaibhavAher219/VaibhavAher219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 My name is Vaibhav and:
 
-- 💼 I specialize in writing,testing,deploying smart contracts and implementing decentralized applications on the Ethereum Blockchain
-- 🌱 I am commited to developing high-quality,secure,and efficient blockchain solutions that solve real-world problems
-- 💻 My expertise includes writing smart contracts in solidity,utilizing Elliptic curve Cryptography,developing frontend applications.
-- 🔩 I have experience with various blockchain Technologies including Ether.js,Hardhat 
-- 💬 I have expertise in Prompt Engineering which gives me an upper hand in developing frontend as I am skilled to leverage the power of AI tools including    Midjourney,DALL-E and GPT
+- 💼 I specialize in **GTM Engineering** and **AI-Native Automation**, architecting complex workflows to drive revenue and efficiency.
+- 🌱 I am committed to building **Agentic AI Workflows** and scalable cold email infrastructure that optimizes deliverability and inbox placement.
+- 💻 My expertise includes building **RAG-based AI agents** using **Supabase** & **Pinecone**, and orchestrating automation via **n8n** and **Clay**.
+- 🔩 I have experience with real-time data extraction pipelines using **Apify**, **Zenrows**, and **Firecrawl** to feed GTM strategies.
+- 💬 I have expertise in **Prompt Engineering** and **AI Workflows**, utilizing tools like **Cursor v0** to build custom full-stack tools and enhance automation capabilities.
+
 - 📫 How to find me:
      - 💡[Twitter](https://twitter.com/vaibhavva219)
-     - 📝[Linkedin](https://www.linkedin.com/in/vaibhav-aher-29640814b)
-
-<!-- [![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavAher219&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/VaibhavAher219/github-readme-stats) -->
-
+     - 📝[Linkedin](https://www.linkedin.com/in/vaibhavvaher/) ```
